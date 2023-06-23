@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.green{
+	height:100px;
+	width:100px;
+	background-color:green;
+}
+.red{
+	height:100px;
+	width:100px;
+	background-color:red;
+}
+.blue{
+	height:100px;
+	width:100px;
+	background-color:blue;
+}
+.holder{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
